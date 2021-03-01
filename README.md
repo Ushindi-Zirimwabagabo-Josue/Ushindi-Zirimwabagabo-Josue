@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Ushindi-Zirimwabagabo-Josue
-- 👀 I’m interested in building effective AI solutions 
-- 🌱 I’m currently learning Python
+- I'm a software engineer and co-founder of Softworld Company
+- 👀 I’m interested in building effective solutions 
+- 🌱 I’m currently learning Python (especially the Flask framework) and Vue
 - 💞️ I’m looking to collaborate on Artificial Intelligence projects
 - 📫 How to reach me: josueuzj9@gmail.com
 
