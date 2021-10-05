@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ushindi-Zirimwabagabo-Josue
+- 👋 Hi, I’m @Josue-Ushindi-Zirimwabagabo
 - I'm a software engineer and co-founder of Softworld Company
 - 👀 I’m interested in building effective solutions 
 - 🌱 I’m currently learning GraphQL and Next.js
